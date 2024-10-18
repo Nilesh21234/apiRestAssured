@@ -1,0 +1,12 @@
+2024-10-18 15:23:32 INFO  UserTests:37 - -------------- Creating New User----------------
+2024-10-18 15:23:36 INFO  UserTests:47 - -------------- Getting User by Name ----------------
+2024-10-18 15:23:38 INFO  UserTests:56 - -------------- Updating Existing User----------------
+2024-10-18 15:23:41 INFO  UserTests:75 - -------------- Deleting User----------------
+2024-10-18 16:24:36 INFO  UserTests2:38 - -------------- Creating New User----------------
+2024-10-18 16:24:40 INFO  UserTests2:48 - -------------- Getting User by Name ----------------
+2024-10-18 16:24:42 INFO  UserTests2:57 - -------------- Updating Existing User----------------
+2024-10-18 16:24:45 INFO  UserTests2:76 - -------------- Deleting User----------------
+2024-10-18 16:32:56 INFO  UserTests2:38 - -------------- Creating New User----------------
+2024-10-18 16:32:59 INFO  UserTests2:48 - -------------- Getting User by Name ----------------
+2024-10-18 16:33:01 INFO  UserTests2:57 - -------------- Updating Existing User----------------
+2024-10-18 16:33:05 INFO  UserTests2:76 - -------------- Deleting User----------------
